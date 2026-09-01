@@ -2,7 +2,7 @@
   "id": "./index.html",
   "name": "Japan Offline Trip Booklet",
   "short_name": "Japan Trip",
-  "description": "Offline September 2026 Japan trip booklet with day plans, maps, coeliac food guidance and practical travel references.",
+  "description": "Offline September 2026 Japan trip booklet with day plans, maps, coeliac food guidance, practical references, place stories and Japanese decoding.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -29,3 +29,4 @@
     }
   ]
 }
+
